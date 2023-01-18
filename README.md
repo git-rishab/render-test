@@ -1,4 +1,4 @@
-# Deploying Fake Back-End Server & DataBase Using JSON-SERVER, GitHub, and Heroku.
+# Deploying Fake Back-End Server & DataBase Using JSON-SERVER, GitHub, and Render.
 
 In this article, we will create and host a fake server that we can deal with it as a normal Back-End Server and use all the CRUD Operations using HTTP requests.
 
