@@ -403,17 +403,12 @@
     }
   ],
 
-  "register" : [],
-
-  "login" : [
+  "register" : [
     {
-      "username":"admin",
-      "pass":"123"
+      "firstName":"Admin",
+      "lastName":"",
+      "email":"admin@gmail.com",
+      "passs":"123456"
     }
-  ],
-
-  "admin" : {
-    "username":"admin",
-    "pass" : "123"
-  }
+  ]
 }
