@@ -7,7 +7,9 @@
       "name":"Healing Tears™ Blue & White",
       "price":"$49.99",
       "color":"white",
-      "priceKey":49.99
+      "priceKey":49.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":2,
@@ -15,7 +17,9 @@
       "name":"Classic All White Arrangement",
       "price":"$69.99",
       "color":"white",
-      "priceKey":69.99
+      "priceKey":69.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":3,
@@ -23,7 +27,9 @@
       "name":"Healing Tears™ All White",
       "price":"$59.99",
       "color":"white",
-      "priceKey":59.99
+      "priceKey":59.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":4,
@@ -31,7 +37,9 @@
       "name":"Blue & White Funeral Standing Spray",
       "price":"$129.99",
       "color":"mix",
-      "priceKey":129.99
+      "priceKey":129.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":5,
@@ -39,7 +47,9 @@
       "name":"Sacred Blessings™ Blue & White",
       "price":"$79.99",
       "color":"mix",
-      "priceKey":79.99
+      "priceKey":79.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":6,
@@ -47,7 +57,9 @@
       "name":"Sacred Blessings™ Blue & White",
       "price":"$79.99",
       "color":"mix",
-      "priceKey":79.99
+      "priceKey":79.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":7,
@@ -55,7 +67,9 @@
       "name":"Heartfelt Tribute™ Blue & White Floor Basket Arrangement",
       "price":"$149.99",
       "color":"mix",
-      "priceKey":149.99
+      "priceKey":149.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":8,
@@ -63,7 +77,9 @@
       "name":"Loving Remembrance™  Blue and White",
       "price":"$64.99",
       "color":"mix",
-      "priceKey":64.99
+      "priceKey":64.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":9,
@@ -71,7 +87,9 @@
       "name":"Cherished Memories™ All White",
       "price":"$99.99",
       "color":"white",
-      "priceKey":99.99
+      "priceKey":99.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":10,
@@ -79,7 +97,9 @@
       "name":"Heartfelt Tribute™ White Floor Basket Arrangement",
       "price":"$149.99",
       "color":"white",
-      "priceKey":149.99
+      "priceKey":149.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":11,
@@ -87,7 +107,9 @@
       "name":"Loving Sentiments™ Blue & White",
       "price":"$79.99",
       "color":"white",
-      "priceKey":79.99
+      "priceKey":79.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":12,
@@ -95,7 +117,9 @@
       "name":"Loving Sentiments™ Lavender & White",
       "price":"$79.99",
       "color":"mix",
-      "priceKey":79.99
+      "priceKey":79.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":13,
@@ -103,7 +127,9 @@
       "name":"Floral Embrace™ for Sympathy",
       "price":"$85.99",
       "color":"mix",
-      "priceKey":85.99
+      "priceKey":85.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":14,
@@ -111,7 +137,9 @@
       "name":"Healing Tears™ Lavender & White",
       "price":"$35.99",
       "color":"mix",
-      "priceKey":35.99
+      "priceKey":35.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":15,
@@ -119,7 +147,9 @@
       "name":"Thoughtful Sentiment™ Bouquet",
       "price":"$59.99",
       "color":"mix",
-      "priceKey":59.99
+      "priceKey":59.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":16,
@@ -127,7 +157,9 @@
       "name":"In Loving Memory™ Bouquet for Sympathy",
       "price":"$39.69",
       "color":"mix",
-      "priceKey":39.69
+      "priceKey":39.69,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":17,
@@ -135,7 +167,9 @@
       "name":"Blooming Love™",
       "price":"$45.69",
       "color":"red",
-      "priceKey":45.69
+      "priceKey":45.69,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":18,
@@ -143,7 +177,9 @@
       "name":"Pitcher Perfect™ 18 Stem Red Rose Bouquet",
       "price":"$85.69",
       "color":"red",
-      "priceKey":85.69
+      "priceKey":85.69,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":19,
@@ -151,7 +187,9 @@
       "name":"Conversation Roses™ I Love You",
       "price":"$54.99",
       "color":"red",
-      "priceKey":54.99
+      "priceKey":54.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":20,
@@ -159,7 +197,9 @@
       "name":"Conversation Roses™ I Love You",
       "price":"$54.99",
       "color":"red",
-      "priceKey":54.99
+      "priceKey":54.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":21,
@@ -167,7 +207,9 @@
       "name":"Majestic Moment™ Bouquet",
       "price":"$59.99",
       "color":"red",
-      "priceKey":59.99
+      "priceKey":59.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":22,
@@ -175,7 +217,9 @@
       "name":"Red Roses with Bear, 12-24 Stems",
       "price":"$29.99",
       "color":"red",
-      "priceKey":29.99
+      "priceKey":29.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":23,
@@ -183,7 +227,9 @@
       "name":"Ultimate Elegance™ Long Stem Red Roses",
       "price":"$19.99",
       "color":"red",
-      "priceKey":19.99
+      "priceKey":19.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":24,
@@ -191,7 +237,9 @@
       "name":"Passion for Purple Roses",
       "price":"$39.99",
       "color":"purple",
-      "priceKey":39.99
+      "priceKey":39.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":25,
@@ -199,7 +247,9 @@
       "name":"Daydream Bouquet™",
       "price":"$35.99",
       "color":"purple",
-      "priceKey":35.99
+      "priceKey":35.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":26,
@@ -207,7 +257,9 @@
       "name":"Rose Elegance™ Premium Long Stem Lavender Roses",
       "price":"$55.99",
       "color":"purple",
-      "priceKey":55.99
+      "priceKey":55.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":27,
@@ -215,7 +267,9 @@
       "name":"Majestic Mosaic Hydrangea",
       "price":"$45.99",
       "color":"purple",
-      "priceKey":45.99
+      "priceKey":45.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":28,
@@ -223,7 +277,9 @@
       "name":"Majestic Mosaic™ Preserved Lavender Roses",
       "price":"$33.99",
       "color":"purple",
-      "priceKey":33.99
+      "priceKey":33.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":29,
@@ -231,7 +287,9 @@
       "name":"Lavender Garden Bouquet",
       "price":"$54.99",
       "color":"purple",
-      "priceKey":54.99
+      "priceKey":54.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":30,
@@ -239,7 +297,9 @@
       "name":"Nature Beauty™ Bouquet",
       "price":"$20.99",
       "color":"purple",
-      "priceKey":20.99
+      "priceKey":20.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":31,
@@ -247,7 +307,9 @@
       "name":"Lavender Door Décor",
       "price":"$30.99",
       "color":"purple",
-      "priceKey":30.99
+      "priceKey":30.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":32,
@@ -255,7 +317,9 @@
       "name":"Lavish Lavender Rose Plant",
       "price":"$36.99",
       "color":"purple",
-      "priceKey":36.99
+      "priceKey":36.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":33,
@@ -263,7 +327,9 @@
       "name":"Ultimate Elegance™ Premium Long Stem Yellow Roses",
       "price":"$199.99",
       "color":"yellow",
-      "priceKey":199.99
+      "priceKey":199.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":34,
@@ -271,7 +337,9 @@
       "name":"Yellow Roses, 12-24 Stems",
       "price":"$44.99",
       "color":"yellow",
-      "priceKey":44.99
+      "priceKey":44.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":35,
@@ -279,7 +347,9 @@
       "name":"Sunshine & Happiness™ by Real Simple",
       "price":"$59.99",
       "color":"yellow",
-      "priceKey":59.99
+      "priceKey":59.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":36,
@@ -287,7 +357,9 @@
       "name":"Sunflower Bouquet",
       "price":"$39.99",
       "color":"yellow",
-      "priceKey":39.99
+      "priceKey":39.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":37,
@@ -295,7 +367,9 @@
       "name":"Country Sunshine Mum",
       "price":"$32.99",
       "color":"yellow",
-      "priceKey":32.99
+      "priceKey":32.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":38,
@@ -303,7 +377,9 @@
       "name":"Yellow & White Delight™ Bouquet",
       "price":"$42.99",
       "color":"yellow",
-      "priceKey":42.99
+      "priceKey":42.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":39,
@@ -311,7 +387,9 @@
       "name":"Rose Elegance™ Premium Long Stem Yellow Roses",
       "price":"$22.99",
       "color":"yellow",
-      "priceKey":22.99
+      "priceKey":22.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":40,
@@ -319,7 +397,9 @@
       "name":"Sunny Day Yellow Mum",
       "price":"$27.99",
       "color":"yellow",
-      "priceKey":27.99
+      "priceKey":27.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":41,
@@ -327,7 +407,9 @@
       "name":"Double Sunshine Mini Rose Plants",
       "price":"$17.99",
       "color":"yellow",
-      "priceKey":17.99
+      "priceKey":17.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":42,
@@ -335,7 +417,9 @@
       "name":"Fair Trade Yellow Rose & White Lily Bouquet",
       "price":"$53.99",
       "color":"yellow",
-      "priceKey":53.99
+      "priceKey":53.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":43,
@@ -343,7 +427,9 @@
       "name":"Two Dozen Assorted Roses",
       "price":"$33.99",
       "color":"mix",
-      "priceKey":33.99
+      "priceKey":33.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":44,
@@ -351,7 +437,9 @@
       "name":"Good Day™ Bouquet",
       "price":"$23.99",
       "color":"mix",
-      "priceKey":23.99
+      "priceKey":23.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":45,
@@ -359,7 +447,9 @@
       "name":"Kaleidoscope Roses, 12-24 Stems",
       "price":"$51.99",
       "color":"mix",
-      "priceKey":51.99
+      "priceKey":51.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":46,
@@ -367,7 +457,9 @@
       "name":"Warm Sunset Bouquet & Cheryl's Cookies",
       "price":"$69.69",
       "color":"mix",
-      "priceKey":69.69
+      "priceKey":69.69,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":47,
@@ -375,7 +467,9 @@
       "name":"Jubilee™ Bouquet—Bright",
       "price":"$129.99",
       "color":"mix",
-      "priceKey":129.99
+      "priceKey":129.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":48,
@@ -383,7 +477,9 @@
       "name":"Chic Garden™ Bouquet",
       "price":"$20.99",
       "color":"mix",
-      "priceKey":20.99
+      "priceKey":20.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":49,
@@ -391,7 +487,9 @@
       "name":"Magnificent Roses™ Preserved Delightful Medley",
       "price":"$200.99",
       "color":"red",
-      "priceKey":200.99
+      "priceKey":200.99,
+      "cart":[],
+      "wishlist":[]
     },
     { 
       "id":50,
@@ -399,7 +497,9 @@
       "name":"Blooming Garden Trio",
       "price":"$24.99",
       "color":"mix",
-      "priceKey":24.99
+      "priceKey":24.99,
+      "cart":[],
+      "wishlist":[]
     }
   ],
 
