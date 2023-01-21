@@ -410,7 +410,8 @@
       "email":"admin@gmail.com",
       "pass":"123456",
       "cart":[],
-      "wishlist":[]
+      "wishlist":[],
+      "ordered":[]
     }
   ]
 }
