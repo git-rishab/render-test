@@ -509,7 +509,9 @@
       "firstName":"Admin",
       "lastName":" ",
       "email":"admin@gmail.com",
-      "pass":"123456"
+      "pass":"123456",
+      "cart":[],
+      "wishlist":[]
     }
   ]
 }
