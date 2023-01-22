@@ -418,9 +418,9 @@
     {
       "id": 1,
       "name":"Aparna Singh",
-      "linkedin":"...",
-      "Github":"...",
-      "email":"aparna@gmail.com",
+      "linkedin":"https://www.linkedin.com/in/aparna-singh-653258247/",
+      "Github":"https://github.com/Appy26",
+      "email":"aparnaharsh2604@gmail.com",
       "pass":"123456",
       "image":"./Photos/aparna.jpeg"
     },
@@ -429,16 +429,16 @@
       "name":"Rishab Kumar Chaurasiya",
       "linkedin":"https://www.linkedin.com/in/rishab-kumar-chaurasiya-a144b4234/",
       "Github":"https://github.com/git-rishab",
-      "email":"rishab@gmail.com",
+      "email":"rkc3360@gmail.com",
       "pass":"123456",
       "image":"./Photos/rishab.jpg"
     },
     {
       "id": 3,
       "name":"Shireesha",
-      "linkedin":"...",
-      "Github":"...",
-      "email":"shireesha@gmail.com",
+      "linkedin":"https://www.linkedin.com/in/b-shireesha-69b8b9251/",
+      "Github":"https://github.com/shireesha93470",
+      "email":"shireeshareddy.b2002@gmail.com",
       "pass":"123456",
       "image":"./Photos/shireesha.jpg"
     }
