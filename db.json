@@ -413,5 +413,31 @@
       "wishlist":[],
       "ordered":[]
     }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name":"Aparna Singh",
+      "linkedin":"...",
+      "Github":"...",
+      "email":"aparna@gmail.com",
+      "pass":"123456"
+    },
+    {
+      "id": 2,
+      "name":"Rishab Kumar Chaurasiya",
+      "linkedin":"https://www.linkedin.com/in/rishab-kumar-chaurasiya-a144b4234/",
+      "Github":"https://github.com/git-rishab",
+      "email":"rishab@gmail.com",
+      "pass":"123456"
+    },
+    {
+      "id": 3,
+      "name":"Shireesha",
+      "linkedin":"...",
+      "Github":"...",
+      "email":"shireesha@gmail.com",
+      "pass":"123456"
+    }
   ]
 }
