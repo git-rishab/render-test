@@ -421,7 +421,8 @@
       "linkedin":"...",
       "Github":"...",
       "email":"aparna@gmail.com",
-      "pass":"123456"
+      "pass":"123456",
+      "image":"./Photos/aparna.jpeg"
     },
     {
       "id": 2,
@@ -429,7 +430,8 @@
       "linkedin":"https://www.linkedin.com/in/rishab-kumar-chaurasiya-a144b4234/",
       "Github":"https://github.com/git-rishab",
       "email":"rishab@gmail.com",
-      "pass":"123456"
+      "pass":"123456",
+      "image":"./Photos/rishab.jpg"
     },
     {
       "id": 3,
@@ -437,7 +439,8 @@
       "linkedin":"...",
       "Github":"...",
       "email":"shireesha@gmail.com",
-      "pass":"123456"
+      "pass":"123456",
+      "image":"./Photos/shireesha.jpg"
     }
   ]
 }
